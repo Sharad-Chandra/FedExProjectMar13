@@ -30,11 +30,12 @@
             </plugin>
 
             <!-- SonarQube Maven Plugin -->
-            <plugin>
-                <groupId>org.sonarsource.scanner.maven</groupId>
-                <artifactId>sonar-maven-plugin</artifactId>
-                <version>3.11.0.2829</version>
-            </plugin>
+         <plugin>
+             <groupId>org.sonarsource.scanner.maven</groupId>
+             <artifactId>sonar-maven-plugin</artifactId>
+             <version>3.10.0.3966</version>
+         </plugin>
+
         </plugins>
     </build>
 
